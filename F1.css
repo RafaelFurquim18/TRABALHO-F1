@@ -1,0 +1,144 @@
+.Logo{
+    background-color: black;
+    position: absolute;
+    left: 141px;
+    margin: 0px;
+}
+
+body{
+    background-color: black;
+}
+
+.circuito1{
+    position: absolute;
+    right: 1300px;
+    top:322px ;
+}
+
+.circuito2{
+    position: absolute;
+    right: 1300px;
+    top:750px ;
+}
+
+.circuito3{
+    position: absolute;
+    right: 1300px;
+    top:1099px ;
+}
+
+.FIA{
+    background-color: red;
+    color:rgb(248, 231, 1); 
+    font-family: Arial, Helvetica, sans-serif;
+    left: 300px;
+    position: absolute;
+    font-size: 37px;
+    top: 40px;
+    width: 1000px;
+    height: 69px;
+}
+
+.LogoF1{
+    left: 1200px;
+    position: absolute;
+    top: -50
+}
+
+.Bahrein{
+    color: rgb(152, 152, 6);
+    width: 100px;
+    font-size: 29px;
+
+}
+
+table{
+    color: aliceblue;
+    position: absolute;
+    left: -1000px;
+    border: 3px solid white;
+    text-align: center;
+    width: 1100;
+    top:200px
+
+}
+
+.Arabia{
+    color: rgb(152, 152, 6);
+    width: 1000px;
+    font-size: 29px;
+}
+
+.dois{
+    color: aliceblue;
+    position: absolute;
+    left: -1000px;
+    border: 3px solid white;
+    text-align: center;
+    width: 1100;
+    top:600px
+
+}
+
+.austra{
+    color: rgb(152, 152, 6);
+    width: 1000px;
+    font-size: 29px;
+}
+
+.tres{
+    color: aliceblue;
+    position: absolute;
+    left: -1000px;
+    border: 3px solid white;
+    text-align: center;
+    width: 1100;
+    top:990px
+}
+
+.classificao{
+    color: aliceblue;
+    position: absolute;
+    left: -1122px;
+    border: 3px solid white;
+    text-align: center;
+    width: 600;
+    top:1399px
+}
+
+.TOP10{
+    color: #fce700;
+    width: 1000px;
+    font-size: 22px;
+}
+
+.equipes{
+    color: aliceblue;
+    position: absolute;
+    left: -370px;
+    border: 3px solid white;
+    text-align: center;
+    width: 600;
+    top:1399px
+}
+
+.classificaoequipe{
+    color: #fce700;
+    width: 1000px;
+    font-size: 22px;
+}
+
+.todos{
+    color: aliceblue;
+    position: absolute;
+    left: -1000px;
+    border: 3px solid white;
+    text-align: center;
+    width: 1100;
+    top:2900px
+}
+
+.GRIDATUAL{
+    color: #fce700;
+    font-size: 29;
+}
